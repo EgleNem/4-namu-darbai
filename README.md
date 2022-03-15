@@ -11,7 +11,7 @@
 
  This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
- Site published at: https://front-end-by-rimantas.github.io/4-namu darbai/
+ Site published at: https://eglenem.github.io/4-namu darbai/
 
  Design: [4-namu darbai](https://cdn.discordapp.com/attachments/850245533838868480/951399092746092554/404-1.png)
 
@@ -21,4 +21,4 @@
 
  ## Authors
 
- Rimantas: [Github](https://github.com/belauzas)
+ Egle: [Github](https://github.com/eglenem)
